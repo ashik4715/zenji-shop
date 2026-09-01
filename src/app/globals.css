@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-zenji-black text-white font-mono;
+  }
+
+  ::selection {
+    @apply bg-zenji-red text-white;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Sale badge ribbon */
+.sale-badge {
+  position: absolute;
+  top: 12px;
+  left: -35px;
+  background: #c8102e;
+  color: white;
+  padding: 4px 40px;
+  font-size: 10px;
+  font-family: ui-monospace, monospace;
+  text-transform: uppercase;
+  transform: rotate(-45deg);
+  z-index: 10;
+  letter-spacing: 0.05em;
+}

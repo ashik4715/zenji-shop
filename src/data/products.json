@@ -1,0 +1,152 @@
+[
+  {
+    "id": "blue-flame-tee",
+    "name": "BLUE FLAME TEE",
+    "price": 39.99,
+    "salePrice": 33.99,
+    "onSale": true,
+    "collection": "THE_ORIGIN_DROP",
+    "description": "Blue flames consume the spirit. This oversized tee features our signature blue flame artwork on premium heavyweight 240gsm cotton.",
+    "images": [
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Blue-flame-1.webp",
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Blue-flame-2.webp"
+    ],
+    "heroImage": "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Blue-flame-4.webp",
+    "tags": ["sale", "new-arrival"]
+  },
+  {
+    "id": "bushido-tee",
+    "name": "BUSHIDO TEE",
+    "price": 39.99,
+    "salePrice": null,
+    "onSale": false,
+    "collection": "THE_ORIGIN_DROP",
+    "description": "The way of the warrior. Bold Japanese calligraphy meets modern streetwear on premium heavyweight cotton.",
+    "images": [
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Bushido-1.webp",
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Bushido-2.webp"
+    ],
+    "heroImage": "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Bushido-4.webp",
+    "tags": ["new-arrival"]
+  },
+  {
+    "id": "demon-blood-tee",
+    "name": "DEMON BLOOD TEE",
+    "price": 39.99,
+    "salePrice": 33.99,
+    "onSale": true,
+    "collection": "THE_ORIGIN_DROP",
+    "description": "Channel your inner demon. Dark anime-inspired artwork on premium heavyweight 240gsm cotton.",
+    "images": [
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Demon-blood-1.webp",
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Demon-blood-2.webp"
+    ],
+    "heroImage": "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Demon-blood-4.webp",
+    "tags": ["sale"]
+  },
+  {
+    "id": "domain-expansion-tee",
+    "name": "DOMAIN EXPANSION TEE",
+    "price": 39.99,
+    "salePrice": null,
+    "onSale": false,
+    "collection": "THE_ORIGIN_DROP",
+    "description": "Expand your domain. Inspired by Jujutsu Kaisen's most iconic technique on premium heavyweight cotton.",
+    "images": [
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Domain-expansion-1.webp",
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Domain-expansion-2.webp"
+    ],
+    "heroImage": "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Domain-expansion-4.webp",
+    "tags": ["new-arrival", "limited"]
+  },
+  {
+    "id": "free-soul-tee",
+    "name": "FREE SOUL TEE",
+    "price": 39.99,
+    "salePrice": null,
+    "onSale": false,
+    "collection": "THE_ORIGIN_DROP",
+    "description": "Unleash your free soul. Freedom meets form in this statement piece on premium heavyweight cotton.",
+    "images": [
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Free-soul-1.webp",
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Free-soul-2.webp"
+    ],
+    "heroImage": "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Free-soul-4.webp",
+    "tags": ["new-arrival"]
+  },
+  {
+    "id": "limitless-tee",
+    "name": "LIMITLESS TEE",
+    "price": 39.99,
+    "salePrice": null,
+    "onSale": false,
+    "collection": "THE_ORIGIN_DROP",
+    "description": "No limits. No boundaries. Pure energy on premium heavyweight 240gsm cotton.",
+    "images": [
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Limitless-1.webp",
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Limitless-2.webp"
+    ],
+    "heroImage": "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Limitless-4.webp",
+    "tags": ["new-arrival"]
+  },
+  {
+    "id": "paradise-spirit-tee",
+    "name": "PARADISE SPIRIT TEE",
+    "price": 39.99,
+    "salePrice": null,
+    "onSale": false,
+    "collection": "THE_ORIGIN_DROP",
+    "description": "Find your paradise spirit. Ethereal design meets warrior energy on premium heavyweight cotton.",
+    "images": [
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Paradise-spirit-1.webp",
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Paradise-spirit-2.webp"
+    ],
+    "heroImage": "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Paradise-spirit-4.webp",
+    "tags": ["new-arrival"]
+  },
+  {
+    "id": "warrior-spirit-tee",
+    "name": "WARRIOR SPIRIT TEE",
+    "price": 39.99,
+    "salePrice": 33.99,
+    "onSale": true,
+    "collection": "THE_ORIGIN_DROP",
+    "description": "The warrior within refuses to fade. Our signature piece on premium heavyweight 240gsm cotton.",
+    "images": [
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Warrior-spirit-2.webp",
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Warrior-spirit-4.webp"
+    ],
+    "heroImage": "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Warrior-spirit-5.webp",
+    "tags": ["sale"]
+  },
+  {
+    "id": "water-breathing-tee",
+    "name": "WATER BREATHING TEE",
+    "price": 39.99,
+    "salePrice": null,
+    "onSale": false,
+    "collection": "THE_ORIGIN_DROP",
+    "description": "Flow like water. Inspired by Demon Slayer's water breathing technique on premium heavyweight cotton.",
+    "images": [
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Water-breathing-1.webp",
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Water-breathing-2.webp"
+    ],
+    "heroImage": "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Water-breathing-4.webp",
+    "tags": ["new-arrival"]
+  },
+  {
+    "id": "will-of-the-sun-tee",
+    "name": "WILL OF THE SUN TEE",
+    "price": 39.99,
+    "salePrice": 33.99,
+    "onSale": true,
+    "collection": "THE_ORIGIN_DROP",
+    "description": "Burn bright. The will of the sun ignites within. Premium heavyweight 240gsm cotton.",
+    "images": [
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Will-of-the-sun-1.webp",
+      "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Will-of-the-sun-2.webp"
+    ],
+    "heroImage": "https://res.cloudinary.com/diqbikizp/image/upload/f_auto,q_auto/zenji/products/Will-of-the-sun-4.webp",
+    "tags": ["sale"]
+  }
+]
