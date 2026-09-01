@@ -29,11 +29,11 @@ const footerSections = [
     title: "CONTACT",
     links: [
       { label: "FAQ", href: "/faq" },
-      { label: "Review", href: "#" },
-      { label: "Privacy Policy", href: "/privacy" },
+      { label: "Review", href: "/review" },
+      { label: "Privacy Policy", href: "/privacy-policy" },
       { label: "Terms", href: "/terms" },
-      { label: "Help", href: "/help" },
-      { label: "Return Policy", href: "/returns" },
+      { label: "Help", href: "/contact" },
+      { label: "Return Policy", href: "/return-policy" },
       { label: "Contact Us", href: "/contact" },
     ],
   },
@@ -112,8 +112,8 @@ export default function Footer() {
         <div className="mx-auto max-w-7xl px-4 py-6 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-zenji-gray">
           <span>© 2026 ZENJI. All drops are final. No restocks. Ever.</span>
           <div className="flex gap-4">
-            <a href="#" className="hover:text-white transition-colors">Privacy</a>
-            <a href="#" className="hover:text-white transition-colors">Terms</a>
+            <Link href="/privacy-policy" className="hover:text-white transition-colors">Privacy</Link>
+            <Link href="/terms" className="hover:text-white transition-colors">Terms</Link>
             <a href="#" className="hover:text-white transition-colors">Cookies</a>
           </div>
           <span className="text-zenji-gray/60">● Anime-inspired. Gamer-built. Community-owned.</span>
